@@ -557,6 +557,7 @@ video {
     font-style: italic;
     max-width: 800px;
     font-size: 18px;
+    line-height: 1.5; /* Adjust this value as needed */
 }
 
 .team_name {
